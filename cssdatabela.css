@@ -1,0 +1,14 @@
+.table-responsive{
+  width: 100% !important;
+}
+
+.table {
+    border:1px solid red;
+	width: 400px; position: absolute; left:35%; margin: 0 0 0-200px;
+	width: 130% !important;
+}
+
+.table-status {
+    margin-top: 80px;
+    margin-bottom: 20px !important;
+}
